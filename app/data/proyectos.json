@@ -1,0 +1,128 @@
+[
+    {
+      "id": 0,
+      "imagenPrincipal": "/iabo.png",      
+      "titulo": "Caso de estudio: iabo.",
+      "fecha": "2022",
+      "descripcion": "Plataforma movil para aprender a manejar y entender las emociones, enfocados en niños y adolescentes. Desarrollado como parte del Certificado de diseño UX de Google",
+      "destinoProto": "https://www.figma.com/proto/r6Z4E2XLZNv5YQLAlopxZX/iabo?type=design&node-id=8-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2&show-proto-sidebar=1",
+      "descripcionLarga": "iabo es una plataforma para aprender a manejar y entender las emociones, enfocados en niños y adolescentes. El proyecto se realizó como caso de estudio como parte del certificado de Google UX. Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+      "leyendaBoton": "Ver prototipo en Figma",
+      "imagenGaleria": [
+        {
+          "imagen":  "/iabo/iabo.png"
+        },
+        {
+          "imagen":  "/iabo/iabo1.png"
+        },
+        {
+          "imagen":  "/iabo/iabo2.png"
+        }
+
+      ]
+      
+  
+    },
+    {
+      "id": 1,
+      "imagenPrincipal": "/obily.png",
+      "titulo": "Caso de estudio: Obily",
+      "fecha": "2022",
+      "descripcion": "Eccomerce online de vestuario y merchandising personalizados. Desarrollado como parte del Certificado de diseño UX de Google",
+      "descripcionLarga": "Como parte del certificado de diseño UX de Google, se diseñó una página web con su versión para dispositivos móviles, abordando temas como diseño responsivo, accesibilidad y branding, . Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+      "leyendaBoton": "Ver prototipo en Figma",
+      "destinoProto": "https://www.figma.com/proto/7T0eNiGRsTHxrnmotMfmYI/Google-ux-2?type=design&node-id=27-970&scaling=scale-down&page-id=27%3A969&starting-point-node-id=27%3A970&show-proto-sidebar=1",
+      "imagenGaleria": [
+        {
+          "imagen":  "/obily/obily1.png"
+        },
+        {
+          "imagen":  "/obily/obily2.png"
+        },
+        {
+          "imagen":  "/obily/obily3.png"
+        },
+        {
+          "imagen":  "/obily/obily4.png"
+        }
+      ]
+      
+  
+    },
+    {
+      "id": 2,
+      "imagenPrincipal": "/kheri.png",
+      "titulo": "Caso de estudio: Kheri",
+      "fecha": "2022",
+      "descripcion": "Aplicación movil para pedidos de comidas grupales durante reuiones o fiestas. Desarrollado como parte del Certificado de diseño UX de Google",
+      "descripcionLarga": "Como parte del certificado de diseño UX de Google, se diseñó una página web con su versión para dispositivos móviles, abordando temas como diseño responsivo, accesibilidad y branding, . Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+      "leyendaBoton": "Ver prototipo en Figma",
+      "destinoProto": "https://www.figma.com/proto/QGhfpLUOLs92Jn1fsMLCOQ/Protipo-1?type=design&node-id=66-636&scaling=scale-down&page-id=66%3A523&starting-point-node-id=66%3A636",
+      "imagenGaleria": [
+        {
+          "imagen":  "/kheri/kheri1.png"
+        },
+        {
+          "imagen":  "/kheri/kheri3.png"
+        },
+        {
+          "imagen":  "/kheri/kheri2.png"
+        },
+        {
+          "imagen":  "/kheri/kheri4.png"
+        },
+        {
+          "imagen":  "/kheri/kheri5.png"
+        }
+      ]
+  
+    },
+    {
+      "id": 3,
+      "imagenPrincipal": "/creaguemil.png",
+      "titulo": "Proyecto Guemil: CreaGuemil",
+      "fecha": "2021-2022",
+      "descripcion": "CreaGuemil permite realizar talleres en modalidad remota, donde los participantes puedan realizar sus propias señaléticas para emergencias",
+      "descripcionLarga": "Guemil es un proyecto que busca hacer más accesible e inclusiva la conversación sobre las emergencias y riesgo de desastres mediante el uso de iconografía. En este contexto se desarrolló la plataforma CreaGuemil, la cual busca poder realizar talleres en modalidad remota, donde los participantes puedan realizar sus propias señaléticas haciendo uso de la plataforma.",
+      "leyendaBoton": "Ver sitio web",
+      "destinoProto": "https://crea.guemil.info/beta.php",
+      "imagenGaleria": [
+        {
+          "imagen":  "/creaGuemil/creaGuemil1.png"
+        },
+        {
+          "imagen":  "/creaGuemil/creaGuemil2.png"
+        },
+        {
+          "imagen":  "/creaGuemil/creaGuemil3.png"
+        }
+
+      ]
+  
+    },
+    {
+      "id": 4,
+      "imagenPrincipal": "/ultimaRonda.png",
+      "titulo": "E-Commerce: Última Ronda",
+      "fecha": "2023",
+      "descripcion": "Proyecto Ecommerce de Juegos de Mesa. En este proyecto, desarrollé el diseño de marca y desarrollo de una plataforma online dedicada a la venta de juegos de mesa.",
+      "descripcionLarga": "Desde las etapas iniciales del proyecto, asumí el rol de diseñador integral, encargándose de definir la identidad de la marca y establecer una estética visual coherente y atractiva. Esta tienda online de la cual soy socio fundador, tuve la oportunidad de tener experiencia de primera mano sobre el desarrollo de una plataforma web, partiendo por el desarrollo de una identidad de marca, para luego desarrollar bosquejos y prototipos del sitio web.",
+      "leyendaBoton": "Ver sitio web",
+      "destinoProto": "https://ultimaronda.cl/",
+      "imagenGaleria": [
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda1.png"
+        },
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda2.png"
+        },
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda3.png"
+        }
+
+      ]
+  
+    }
+    
+  ]
+  
