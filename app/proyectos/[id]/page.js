@@ -23,7 +23,7 @@ const page = ({ params }) => {
   return (
     <div className='md:pr-10 px-3 md:flex md:gap-10'>
         {/* Imagenes */}
-        <div className='snap-x snap-mandatory flex overflow-x-scroll md:basis-3/4 md:inline'>
+        <div className='snap-x snap-mandatory flex overflow-x-scroll md:basis-3/4 md:inline md:snap-none md:overscroll-x-none'>
          {
             proyecto.imagenGaleria.map (({imagen}) => (
           
