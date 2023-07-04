@@ -1,6 +1,29 @@
 [
     {
       "id": 0,
+      "imagenPrincipal": "/ultimaRonda.png",
+      "titulo": "E-Commerce: Última Ronda",
+      "fecha": "2023",
+      "descripcion": "Proyecto Ecommerce de Juegos de Mesa. En este proyecto, desarrollé el diseño de marca y desarrollo de una plataforma online dedicada a la venta de juegos de mesa.",
+      "descripcionLarga": "Desde las etapas iniciales del proyecto, asumí el rol de diseñador integral, encargándose de definir la identidad de la marca y establecer una estética visual coherente y atractiva. Esta tienda online de la cual soy socio fundador, tuve la oportunidad de tener experiencia de primera mano sobre el desarrollo de una plataforma web, partiendo por el desarrollo de una identidad de marca, para luego desarrollar bosquejos y prototipos del sitio web.",
+      "leyendaBoton": "Ver sitio web",
+      "destinoProto": "https://ultimaronda.cl/",
+      "imagenGaleria": [
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda1.png"
+        },
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda2.png"
+        },
+        {
+          "imagen":  "/ultimaRonda/ultimaRonda3.png"
+        }
+
+      ]
+
+    },
+    {
+      "id": 1,
       "imagenPrincipal": "/iabo.png",      
       "titulo": "Caso de estudio: iabo.",
       "fecha": "2022",
@@ -24,7 +47,7 @@
   
     },
     {
-      "id": 1,
+      "id": 2,
       "imagenPrincipal": "/obily.png",
       "titulo": "Caso de estudio: Obily",
       "fecha": "2022",
@@ -50,7 +73,7 @@
   
     },
     {
-      "id": 2,
+      "id": 3,
       "imagenPrincipal": "/kheri.png",
       "titulo": "Caso de estudio: Kheri",
       "fecha": "2022",
@@ -78,7 +101,7 @@
   
     },
     {
-      "id": 3,
+      "id": 4,
       "imagenPrincipal": "/creaguemil.png",
       "titulo": "Proyecto Guemil: CreaGuemil",
       "fecha": "2021-2022",
@@ -99,30 +122,8 @@
 
       ]
   
-    },
-    {
-      "id": 4,
-      "imagenPrincipal": "/ultimaRonda.png",
-      "titulo": "E-Commerce: Última Ronda",
-      "fecha": "2023",
-      "descripcion": "Proyecto Ecommerce de Juegos de Mesa. En este proyecto, desarrollé el diseño de marca y desarrollo de una plataforma online dedicada a la venta de juegos de mesa.",
-      "descripcionLarga": "Desde las etapas iniciales del proyecto, asumí el rol de diseñador integral, encargándose de definir la identidad de la marca y establecer una estética visual coherente y atractiva. Esta tienda online de la cual soy socio fundador, tuve la oportunidad de tener experiencia de primera mano sobre el desarrollo de una plataforma web, partiendo por el desarrollo de una identidad de marca, para luego desarrollar bosquejos y prototipos del sitio web.",
-      "leyendaBoton": "Ver sitio web",
-      "destinoProto": "https://ultimaronda.cl/",
-      "imagenGaleria": [
-        {
-          "imagen":  "/ultimaRonda/ultimaRonda1.png"
-        },
-        {
-          "imagen":  "/ultimaRonda/ultimaRonda2.png"
-        },
-        {
-          "imagen":  "/ultimaRonda/ultimaRonda3.png"
-        }
-
-      ]
-  
     }
+    
     
   ]
   
