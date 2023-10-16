@@ -37,7 +37,7 @@ const ContenidoSobreMi = () => {
                 <img className='shadow-sm border-blanco border-2 rounded-sm mx-auto' src='/sobreMi/portafolio.png' alt=""  />
                 <div className=''>
                     <button className='flex mx-auto gap-2 p-4 my-4 bg-morado-h rounded-md items-center'>
-                            <a className='block text-blanco md:text-lg text-sm font-semibold mt-1 ' href="/portafolio.pdf">Ver archivo </a>
+                            <a className='block text-blanco md:text-lg text-sm font-semibold mt-1 ' href="/Portafolio.pdf">Ver archivo </a>
                             <IconContext.Provider value={{ color: 'white' }}>
                                 <FaDownload/>
                             </IconContext.Provider>
