@@ -43,9 +43,11 @@ const TarjetasPortafolio = () => {
                 <p className='font-light text-morado-h text-sm'>
                   {fecha}
                 </p>
-                <h3 className='text-xl my-1 font-bold text-negro'>
-                  {titulo}
-                </h3>
+                <Link href={`/proyectos/${id}`}>
+                  <h3 className='text-xl my-1 font-bold text-negro'>
+                    {titulo}
+                  </h3>
+                </Link>
                 <p className='font-light text-gris'>
                   {descripcion}
                 </p>

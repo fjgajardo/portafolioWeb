@@ -1,6 +1,29 @@
 [
     {
       "id": 0,
+      "imagenPrincipal": "/rentaFactoring.png",
+      "titulo": "Aplicación web Renta Factoring",
+      "fecha": "2023",
+      "descripcion": "Propuesta de aplicación web para empresa de Factoring. Trabajo formato  freelance donde se realizó prototipo interactivo de los principales flujos requeridos.",
+      "descripcionLarga": "La empresa de factoring es una entidad financiera que se especializa en la compra de facturas o cuentas por cobrar de otras empresas a cambio de un monto descontado. Para optimizar sus operaciones y mejorar la eficiencia en la gestión de estos procesos, se propuso el desarrollo de una aplicación web a medida. Esta aplicación web tendría como objetivo principal automatizar y agilizar los flujos de trabajo esenciales de la empresa de factoring, brindando a sus usuarios una plataforma intuitiva y eficiente para llevar a cabo sus transacciones.",
+      "leyendaBoton": "Ver prototipo en Figma",
+      "destinoProto": "https://www.figma.com/proto/ELzPjYWVpMGd4XUmgaIRnS/Renta-Factoring?page-id=8%3A3&node-id=77-1383&starting-point-node-id=77%3A1383&mode=design&t=0E2S0J9rDD7nWMgI-1",
+      "imagenGaleria": [
+        {
+          "imagen":  "/rentaFactoring/rentaFactoring1.png"
+        },
+        {
+          "imagen":  "/rentaFactoring/rentaFactoring2.png"
+        },
+        {
+          "imagen":  "/rentaFactoring/rentaFactoring3.png"
+        }
++
+      ]
+
+    },
+    {
+      "id": 1,
       "imagenPrincipal": "/ultimaRonda.png",
       "titulo": "E-Commerce: Última Ronda",
       "fecha": "2023",
@@ -23,7 +46,7 @@
 
     },
     {
-      "id": 1,
+      "id": 2,
       "imagenPrincipal": "/obily.png",
       "titulo": "Caso de estudio: Obily",
       "fecha": "2022",
@@ -49,7 +72,7 @@
   
     },
     {
-      "id": 2,
+      "id": 3,
       "imagenPrincipal": "/kheri.png",
       "titulo": "Caso de estudio: Kheri",
       "fecha": "2022",
@@ -77,7 +100,7 @@
   
     },
     {
-      "id": 3,
+      "id": 4,
       "imagenPrincipal": "/iabo.png",      
       "titulo": "Caso de estudio: iabo.",
       "fecha": "2022",
@@ -101,7 +124,7 @@
   
     },
     {
-      "id": 4,
+      "id": 5,
       "imagenPrincipal": "/creaguemil.png",
       "titulo": "Proyecto Guemil: CreaGuemil",
       "fecha": "2021-2022",
