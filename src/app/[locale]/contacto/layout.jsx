@@ -1,5 +1,5 @@
 'use client'
-import NavBar from 'app/components/NavBar'
+import NavBar from '/src/app/[locale]/components/NavBar'
 
 const layout = ({ children }) => {
     return (

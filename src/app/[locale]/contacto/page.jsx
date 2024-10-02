@@ -1,7 +1,7 @@
 'use client'
 import React from 'react'
 import Lottie from 'lottie-react'
-import animationData from 'app/data/avionDePapel.json'
+import animationData from '/src/app/[locale]/data/avionDePapel.json'
 import {BsFillTelephoneFill, BsLinkedin, BsFillEnvelopeFill} from 'react-icons/bs'
 import { IconContext } from "react-icons";
 

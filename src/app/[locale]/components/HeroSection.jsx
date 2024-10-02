@@ -1,7 +1,5 @@
 import React from 'react'
 import { Link } from '../../../i18n/routing'
-import Lottie from 'lottie-react'
-import animationData from '/src/app/[locale]/data/avionInicio.json'
 import { useTranslations } from 'next-intl'
 
 const HeroSection = () => {
