@@ -1,0 +1,169 @@
+{
+  "NavBar": {
+    "ultimosProyectos":{
+      "id": "1",
+      "texto": "Lastest Projects",
+      "link": "/#TarjetasPortafolio"
+    },
+    "sobreMi":{
+      "id": "2",
+      "texto": "About",
+      "link": "/sobreMi"
+    },
+    "cv":{
+      "id": "3",
+      "texto": "Resume",
+      "link": "/sobreMi#CV"
+    },
+    "contacto":{
+      "id": "4",
+      "texto": "Contact",
+      "link": "/sobreMi#Contacto"
+    }
+
+  },
+
+  "HeroSection":{
+    "intro": "Hello. I am Fernando Gajardo.",
+    "bajada": "Integral Designer with a focus on UX/UI and Entertainment",
+    "contenido1": "I am an integral designer with a great passion for user experience and interface design. Recently, I have immersed myself in the exciting world of digital product development. I am seeking a position as a UX/UI designer, where I can continue learning and growing.",
+    "contenido2": "I have practical proficiency in creative tools such as the Adobe Suite or Figma. Additionally, I am familiar with different design and development methodologies.",
+    "boton": "Let's Talk!"
+  },
+  "TarjetasPortafolio": {
+    "tituloSeccion": "Últimos proyectos",
+    "bajadaTitulo": "En la sección CV puedes encontrar otros proyectos",
+
+
+    "proyecto1":{
+      "id": 0,
+      "link": "/proyectos/0",
+      "volver": "Go back",
+      "imagenPrincipal": "/rentaFactoring.png",
+     "titulo": "Web App Renta Factoring",
+      "fecha": "2023",
+      "descripcion": "Web application proposal for a factoring company. Freelance project where an interactive prototype of the main required flows was done in figma.",
+      "descripcionLarga": "The factoring company is a financial entity that specializes in purchasing invoices or accounts receivable from other companies in exchange for a discounted amount. To optimize its operations and improve efficiency in managing these processes, the development of a custom web application was proposed. The main objective of this web application would be to automate and streamline the essential workflows of the factoring company, providing its users with an intuitive and efficient platform to conduct their transactions.",
+      "leyendaBoton": "Open Figma Prototype",
+      "destinoProto": "https://www.figma.com/proto/ELzPjYWVpMGd4XUmgaIRnS/Renta-Factoring?page-id=8%3A3&node-id=77-1383&starting-point-node-id=77%3A1383&mode=design&t=0E2S0J9rDD7nWMgI-1",
+      "imagenGaleria": {
+        "imagen1":  "/rentaFactoring/rentaFactoring.png",
+        "imagen2":  "/rentaFactoring/rentaFactoring1.png",
+        "imagen3":  "/rentaFactoring/rentaFactoring2.png",
+        "imagen4":  "/rentaFactoring/rentaFactoring3.png",
+        "imagen5":  "/rentaFactoring/rentaFactoring4.png"
+      }
+    },
+    "proyecto2": {
+          "id": 1,
+          "link": "/proyectos/1",
+          "volver": "Go back",
+          "imagenPrincipal": "/ultimaRonda.png",
+          "titulo": "E-Commerce: Última Ronda",
+          "fecha": "2023",
+          "descripcion": "Board Games Ecommerce. In this project, I developed the brand design and development of an online platform dedicated to the sale of board games.",
+          "descripcionLarga": "From the initial stages of the project, I assumed the role of integral designer, taking charge of defining the brand identity and establishing a coherent and attractive visual aesthetic. This online store, of which I am a founding partner, gave me the opportunity to gain first-hand experience in the development of a web platform, starting with the development of a brand identity, and then developing sketches and prototypes of the website.",
+          "leyendaBoton": "Website is not avaible right now",
+          "destinoProto": "#",
+          "imagenGaleria": {
+              "imagen1":  "/ultimaRonda/ultimaRonda1.png",
+              "imagen2":  "/ultimaRonda/ultimaRonda2.png",
+              "imagen3":  "/ultimaRonda/ultimaRonda3.png"
+            
+        }
+      },
+      "proyecto3": 
+          {
+            "id": 2,
+            "link": "/proyectos/2",
+            "volver": "Go back",
+            "imagenPrincipal": "/obily.png",
+            "titulo": "Study Case: Obily",
+            "fecha": "2022",
+            "descripcion": "Online store for personalized clothing and merchandise.  Created as a project for the Google UX Design Certificate program.",
+            "descripcionLarga": "This project, completed for the Google UX Design Certificate, involved designing a website and its mobile version. The design process included user research (interviews), wireframing, and developing high-fidelity prototypes, with a focus on responsive design, accessibility, and branding.",
+            "leyendaBoton": "Open Figma Prototype",
+            "destinoProto": "https://www.figma.com/proto/7T0eNiGRsTHxrnmotMfmYI/Google-ux-2?type=design&node-id=27-970&scaling=scale-down&page-id=27%3A969&starting-point-node-id=27%3A970&show-proto-sidebar=1",
+            "imagenGaleria": {
+                "imagen1":  "/obily/obily1.png",
+                "imagen2":  "/obily/obily2.png",
+                "imagen3":  "/obily/obily3.png",
+                "imagen4":  "/obily/obily4.png"
+              }
+          }, 
+
+          "proyecto4":
+          {
+            "id": 3,
+            "link": "/proyectos/3",
+            "volver": "Go back",
+            "imagenPrincipal": "/kheri.png",
+            "titulo": "Study Case: Kheri",
+            "fecha": "2022",
+            "descripcion": "A mobile application designed to streamline group food orders for meetings and parties. This app was developed as part of the Google UX Design Certificate program.",
+            "descripcionLarga": "As part of the Google UX Design Certificate, a website was designed with a corresponding mobile version, focusing on responsive design, accessibility, and branding. The project involved conducting user interviews, creating wireframes, and developing high-fidelity prototypes.",
+            "leyendaBoton": "Open Figma Prototype",
+            "destinoProto": "https://www.figma.com/proto/QGhfpLUOLs92Jn1fsMLCOQ/Protipo-1?type=design&node-id=66-636&scaling=scale-down&page-id=66%3A523&starting-point-node-id=66%3A636",
+            "imagenGaleria": {
+                "imagen1":  "/kheri/kheri1.png",
+                "imagen2":  "/kheri/kheri3.png",
+                "imagen3":  "/kheri/kheri2.png",
+                "imagen4":  "/kheri/kheri4.png",
+                "imagen5":  "/kheri/kheri5.png"
+          }
+        }, 
+
+
+          "proyecto5":
+          {
+            "id": 4,
+            "link": "/proyectos/4",
+            "volver": "Go back",
+            "imagenPrincipal": "/iabo.png",      
+            "titulo": "Study Case: iabo.",
+            "fecha": "2022",
+            "descripcion": "This mobile platform, designed for children and teenagers, helps them learn to identify, understand, and manage their emotions. It was developed as part of the Google UX Design Certificate program.",
+            "destinoProto": "https://www.figma.com/proto/r6Z4E2XLZNv5YQLAlopxZX/iabo?type=design&node-id=8-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2&show-proto-sidebar=1",
+            "descripcionLarga": "iabo is a platform designed to help children and teenagers learn to manage and understand their emotions. This case study project, completed as part of the Google UX Design Certificate, involved user interviews, wireframing, and the development of high-fidelity prototypes.",
+            "leyendaBoton": "Open Figma Prototype",
+            "imagenGaleria": {
+                "imagen1":  "/iabo/iabo.png",
+                "imagen2":  "/iabo/iabo1.png",
+                "imagen3":  "/iabo/iabo2.png"     
+          }
+        },
+
+
+          "proyecto6":
+          {
+            "id": 5,
+            "link": "/proyectos/5",
+            "volver": "Go back",
+            "imagenPrincipal": "/creaguemil.png",
+            "titulo": "Guemil Project: CreaGuemil",
+            "fecha": "2021-2022",
+            "descripcion": "CreaGuemil is a platform for conducting remote workshops that empower participants to design and produce their own emergency signage.",
+            "descripcionLarga": "CreaGuemil is a platform designed to facilitate remote workshops where participants can create their own emergency signage using iconography. This platform is part of the Guemil project, which seeks to make discussions about emergencies and disaster risk more accessible and inclusive.",
+            "leyendaBoton": "Open Website",
+            "destinoProto": "https://crea.guemil.info/beta.php",
+            "imagenGaleria": {
+                "imagen1":  "/creaGuemil/creaGuemil1.png",
+                "imagen2":  "/creaGuemil/creaGuemil2.png",
+                "imagen3":  "/creaGuemil/creaGuemil3.png"
+          }
+        }
+      },
+      "ContenidoSobreMi":
+      {
+        "tituloSeccion": "Who am I? Some people call me Gabu.",
+        "bajada": "I am a multi-faceted designer with a strong academic background in UX/UI design, branding, and digital product development. I am eager to find a role where I can apply my skills and passion for creating engaging and user-centered experiences, drawing inspiration from my love of games.",
+        "bajada2": "I'm seeking a company culture that embraces innovation and finds joy in the design process. I'm excited by the prospect of joining a passionate team and collaborating to create truly engaging and immersive digital experiences.",
+        "portafolio": "Portfolio",
+        "curriculum": "Resume",
+        "imgPortafolio": "/sobreMi/portafolio.png",
+        "linkPortafolio": "/Portafolio.pdf",
+        "imgCV": "/sobreMi/cv.png",
+        "linkCV": "/CV.pdf",
+        "hablemos": "Let's Talk!"
+      }
+}

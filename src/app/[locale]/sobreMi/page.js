@@ -1,6 +1,6 @@
 'use client'
-import NavBar from 'app/components/NavBar'
-import ContenidoSobreMi from 'app/components/ContenidoSobreMi'
+import NavBar from '/src/app/[locale]/components/NavBar'
+import ContenidoSobreMi from '/src/app/[locale]/components/ContenidoSobreMi'
 
 
 const page = () => {

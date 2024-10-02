@@ -1,0 +1,169 @@
+{
+  "NavBar": {
+    "ultimosProyectos":{
+      "id": "1",
+      "texto": "Últimos proyectos",
+      "link": "/#TarjetasPortafolio"
+    },
+    "sobreMi":{
+      "id": "2",
+        "texto": "Sobre mi",
+        "link": "/sobreMi"
+      },
+      "cv":{
+        "id": "3",
+        "texto": "CV",
+        "link": "/sobreMi#CV"
+      },
+      "contacto":{
+        "id": "4",
+        "texto": "Contacto",
+        "link": "/sobreMi#Contacto"
+    }
+  },
+  "HeroSection":{
+    "intro": "Hola. Soy Fernando Gajardo",
+    "bajada": "Diseñador integral con enfoque de UX/UI y Entretención",
+    "contenido1": "Soy diseñador integral con una gran pasión por la experiencia de usuario y el diseño de interfaces. Recientemente me he sumergido en el emocionante mundo del desarrollo de productos digitales. En este momento, estoy en la búsqueda de un puesto como diseñador UX/UI, donde pueda seguir aprendiendo y creciendo.",
+    "contenido2": "Cuento con dominio práctico de herramientas creativas como la suite de Adobe o Figma. Además, estoy familiarizado con diferentes metodologías de diseño y desarrollo.",
+    "boton": "¡Hablemos!"
+  },
+
+  "TarjetasPortafolio": {
+    "tituloSeccion": "Últimos proyectos",
+    "bajadaTitulo": "En la sección CV puedes encontrar otros proyectos",
+  
+
+    "proyecto1":{
+      "id": 0,
+      "link": "/proyectos/0",
+      "volver": "Volver",
+      "imagenPrincipal": "/rentaFactoring.png",
+      "titulo": "Aplicación web Renta Factoring",
+      "fecha": "2023",
+      "descripcion": "Propuesta de aplicación web para empresa de Factoring. Trabajo formato  freelance donde se realizó prototipo interactivo de los principales flujos requeridos.",
+      "descripcionLarga": "La empresa de factoring es una entidad financiera que se especializa en la compra de facturas o cuentas por cobrar de otras empresas a cambio de un monto descontado. Para optimizar sus operaciones y mejorar la eficiencia en la gestión de estos procesos, se propuso el desarrollo de una aplicación web a medida. Esta aplicación web tendría como objetivo principal automatizar y agilizar los flujos de trabajo esenciales de la empresa de factoring, brindando a sus usuarios una plataforma intuitiva y eficiente para llevar a cabo sus transacciones.",
+      "leyendaBoton": "Ver prototipo en Figma",
+      "destinoProto": "https://www.figma.com/proto/ELzPjYWVpMGd4XUmgaIRnS/Renta-Factoring?page-id=8%3A3&node-id=77-1383&starting-point-node-id=77%3A1383&mode=design&t=0E2S0J9rDD7nWMgI-1",
+      "imagenGaleria": {
+        "imagen1":  "/rentaFactoring/rentaFactoring.png",
+        "imagen2":  "/rentaFactoring/rentaFactoring1.png",
+        "imagen3":  "/rentaFactoring/rentaFactoring2.png",
+        "imagen4":  "/rentaFactoring/rentaFactoring3.png",
+        "imagen5":  "/rentaFactoring/rentaFactoring4.png"
+      }
+    },
+    "proyecto2": {
+          "id": 1,
+          "link": "/proyectos/1",
+          "volver": "Volver",
+          "imagenPrincipal": "/ultimaRonda.png",
+          "titulo": "E-Commerce: Última Ronda",
+          "fecha": "2023",
+          "descripcion": "Ecommerce de Juegos de Mesa. En este proyecto, desarrollé el diseño de marca y desarrollo de una plataforma online dedicada a la venta de juegos de mesa.",
+          "descripcionLarga": "Desde las etapas iniciales del proyecto, asumí el rol de diseñador integral, encargándose de definir la identidad de la marca y establecer una estética visual coherente y atractiva. Esta tienda online de la cual soy socio fundador, tuve la oportunidad de tener experiencia de primera mano sobre el desarrollo de una plataforma web, partiendo por el desarrollo de una identidad de marca, para luego desarrollar bosquejos y prototipos del sitio web.",
+          "leyendaBoton": "Sitio web no disponible actualmente",
+          "destinoProto": "#",
+          "imagenGaleria": {
+              "imagen1":  "/ultimaRonda/ultimaRonda1.png",
+              "imagen2":  "/ultimaRonda/ultimaRonda2.png",
+              "imagen3":  "/ultimaRonda/ultimaRonda3.png"
+            
+        }
+      },
+      "proyecto3": 
+          {
+            "id": 2,
+            "link": "/proyectos/2",
+            "volver": "Volver",
+            "imagenPrincipal": "/obily.png",
+            "titulo": "Caso de estudio: Obily",
+            "fecha": "2022",
+            "descripcion": "Eccomerce online de vestuario y merchandising personalizados. Desarrollado como parte del Certificado de diseño UX de Google",
+            "descripcionLarga": "Como parte del certificado de diseño UX de Google, se diseñó una página web con su versión para dispositivos móviles, abordando temas como diseño responsivo, accesibilidad y branding, . Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+            "leyendaBoton": "Ver prototipo en Figma",
+            "destinoProto": "https://www.figma.com/proto/7T0eNiGRsTHxrnmotMfmYI/Google-ux-2?type=design&node-id=27-970&scaling=scale-down&page-id=27%3A969&starting-point-node-id=27%3A970&show-proto-sidebar=1",
+            "imagenGaleria": {
+                "imagen1":  "/obily/obily1.png",
+                "imagen2":  "/obily/obily2.png",
+                "imagen3":  "/obily/obily3.png",
+                "imagen4":  "/obily/obily4.png"
+              }
+          }, 
+
+          "proyecto4":
+          {
+            "id": 3,
+            "link": "/proyectos/3",
+            "volver": "Volver",
+            "imagenPrincipal": "/kheri.png",
+            "titulo": "Caso de estudio: Kheri",
+            "fecha": "2022",
+            "descripcion": "Aplicación movil para pedidos de comidas grupales durante reuniones o fiestas. Desarrollado como parte del Certificado de diseño UX de Google",
+            "descripcionLarga": "Como parte del certificado de diseño UX de Google, se diseñó una página web con su versión para dispositivos móviles, abordando temas como diseño responsivo, accesibilidad y branding, . Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+            "leyendaBoton": "Ver prototipo en Figma",
+            "destinoProto": "https://www.figma.com/proto/QGhfpLUOLs92Jn1fsMLCOQ/Protipo-1?type=design&node-id=66-636&scaling=scale-down&page-id=66%3A523&starting-point-node-id=66%3A636",
+            "imagenGaleria": {
+                "imagen1":  "/kheri/kheri1.png",
+                "imagen2":  "/kheri/kheri3.png",
+                "imagen3":  "/kheri/kheri2.png",
+                "imagen4":  "/kheri/kheri4.png",
+                "imagen5":  "/kheri/kheri5.png"
+          }
+        }, 
+
+
+          "proyecto5":
+          {
+            "id": 4,
+            "link": "/proyectos/4",
+            "volver": "Volver",
+            "imagenPrincipal": "/iabo.png",      
+            "titulo": "Caso de estudio: iabo.",
+            "fecha": "2022",
+            "descripcion": "Plataforma movil para aprender a manejar y entender las emociones, enfocados en niños y adolescentes. Desarrollado como parte del Certificado de diseño UX de Google",
+            "destinoProto": "https://www.figma.com/proto/r6Z4E2XLZNv5YQLAlopxZX/iabo?type=design&node-id=8-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2&show-proto-sidebar=1",
+            "descripcionLarga": "iabo es una plataforma para aprender a manejar y entender las emociones, enfocados en niños y adolescentes. El proyecto se realizó como caso de estudio como parte del certificado de Google UX. Este proyecto consistió desde el desarrollo de entrevistas, wireframes, y prototipos de alta fidelidad.",
+            "leyendaBoton": "Ver prototipo en Figma",
+            "imagenGaleria": {
+                "imagen1":  "/iabo/iabo.png",
+                "imagen2":  "/iabo/iabo1.png",
+                "imagen3":  "/iabo/iabo2.png"     
+          }
+        },
+
+
+          "proyecto6":
+          {
+            "id": 5,
+            "link": "/proyectos/5",
+            "volver": "Volver",
+            "imagenPrincipal": "/creaguemil.png",
+            "titulo": "Proyecto Guemil: CreaGuemil",
+            "fecha": "2021-2022",
+            "descripcion": "CreaGuemil permite realizar talleres en modalidad remota, donde los participantes puedan realizar sus propias señaléticas para emergencias",
+            "descripcionLarga": "Guemil es un proyecto que busca hacer más accesible e inclusiva la conversación sobre las emergencias y riesgo de desastres mediante el uso de iconografía. En este contexto se desarrolló la plataforma CreaGuemil, la cual busca poder realizar talleres en modalidad remota, donde los participantes puedan realizar sus propias señaléticas haciendo uso de la plataforma.",
+            "leyendaBoton": "Ver sitio web",
+            "destinoProto": "https://crea.guemil.info/beta.php",
+            "imagenGaleria": {
+                "imagen1":  "/creaGuemil/creaGuemil1.png",
+                "imagen2":  "/creaGuemil/creaGuemil2.png",
+                "imagen3":  "/creaGuemil/creaGuemil3.png"
+          }
+        }
+      },
+      
+      "ContenidoSobreMi":
+      {
+        "tituloSeccion": "¿Quién soy? Algunas personas me dicen Gabu.",
+        "bajada": "Como diseñador integral con experiencia académica en diseño UX/UI, branding y desarrollo de productos digitales, estoy en busca de un puesto que me permita seguir aprendiendo y creciendo en mi carrera. Mi pasión por el diseño se entrelaza con mi amor por los juegos, lo que me inspira a crear experiencias de usuario excepcionales y envolventes.",
+        "bajada2": "Busco un entorno de trabajo que valore la innovación y la diversión en el diseño. Estoy emocionado de unirme a un equipo que comparta mi entusiasmo y crear experiencias digitales memorables y envolventes juntos.",
+        "portafolio": "Portafolio",
+        "curriculum": "Curriculum",
+        "imgPortafolio": "/sobreMi/portafolio.png",
+        "linkPortafolio": "/Portafolio.pdf",
+        "imgCV": "/sobreMi/cv.png",
+        "linkCV": "/CV.pdf",
+        "hablemos": "¡Hablemos!"
+      }
+}
