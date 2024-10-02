@@ -5,17 +5,39 @@
 :root {
   --primary: #DEEAF7;
   --secondary: #ADCAEB;
+  --negro: #2d3047;
+  --gris2: #e7e7ef;
+  --gris-l: #F3F3F7;
+  --gris: #484C70;
+  --morado-l: #a67db8;
+  --morado-h: #7e55d9;
+  --verde: #60d9b6;
+  --blanco: #EBF2FA;
+  --blancoSecundario: #F5F5F5;
+  --blancoBlanco: #ffffff;
+}
+
+body {
+  background: var(--blancoBlanco);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    
+    --primary: #DEEAF7;
+    --secondary: #ADCAEB;
+    --negro: #2d3047;
+    --gris2: #e7e7ef;
+    --gris-l: #F3F3F7;
+    --gris: #484C70;
+    --morado-l: #a67db8;
+    --morado-h: #7e55d9;
+    --verde: #60d9b6;
+    --blanco: #EBF2FA;
+    --blancoSecundario: #F5F5F5;
+    --blancoBlanco: #ffffff;
   }
 }
 
-body {
-
-}
 /* Firefox */
 * {
   scrollbar-width: thin;

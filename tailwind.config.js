@@ -8,16 +8,16 @@ module.exports = {
   ],
   theme: {
     colors: {
-      "negro": '#2d3047',
-      "gris-2": '#e7e7ef',
-      "gris-l": '#F3F3F7',
-      "gris": '#484C70',
-      "morado-l": "#a67db8",
-      "morado-h": "#7e55d9",
-      "verde": "#60d9b6",
-      "blanco": "#EBF2FA",
-      'blancoSecundario': '#F5F5F5',
-      "blancoBlanco": "#ffffff",
+      "negro": 'var(--negro)',
+      "gris-2": 'var(--gris-2)',
+      "gris-l": 'var(--gris-l)',
+      "gris": 'var(--gris)',
+      "morado-l": "var(--morado-l)",
+      "morado-h": "var(--morado-h)",
+      "verde": 'var(--verde)',
+      "blanco": 'var(--blanco)',
+      'blancoSecundario': 'var(--blancoSecundario)',
+      "blancoBlanco": 'var(--blancoBlanco)',
 
     },
     extend: {

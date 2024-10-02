@@ -11,8 +11,8 @@ const NavBar = () => {
     const links = ['ultimosProyectos', 'sobreMi', 'cv', 'contacto'];
 
     return (
-        <nav className='py-8 flex md:flex-row justify-between px-6 md:px-28 md:mx-10 z-10 bg-blancoBlanco sticky top-0 border-b-2 border-blanco'>
-          <Link href='/' className='text-2xl md:text-3xl font-bold text-negro mr-12 border-b-2 border-verde'>
+        <nav className='py-8 flex justify-between px-6 md:px-28 z-10 bg-blancoBlanco sticky top-0 border-b-2 border-blanco'>
+          <Link href='/' className='text-2xl md:text-3xl font-bold text-negro border-b-2 border-verde'>
             Fernando Gajardo
           </Link>  
     
