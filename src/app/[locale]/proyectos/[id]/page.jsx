@@ -58,21 +58,21 @@ const page = ({ params }) => {
                 {t('titulo')}
             </h1>
             <p className='text-gris font-light my-1'>
-                Participantes: Fernando Gajardo
+                {t('participantes')}
             </p>
-            <p>
+            <p className='text-negro mt-4'>
                 {t('descripcionLarga')}
             </p>  
             {/* boton */}
             <div className='text-right my-4'>
-                <button className='p-3 pt-4 rounded-md w-full  text-blanco bg-morado-h font-semibold'>
+                <button className='p-3 pt-4 rounded-md w-full text-blancoFijo bg-morado-h font-semibold'>
                     <a href={t('destinoProto')} target="_blank">{t('leyendaBoton')}</a>
                 </button>
             </div>  
             <div className='md:mt-5'>
                 <Link href="/" className='flex my-10' >
-                    <IoArrowBack className='mr-3 mt-1.5'/>
-                    <h1 className='align-middle font-semibold text-lg'>{t('volver')}</h1>
+                    <IoArrowBack className='mr-3 mt-1.5 dark:text-negro'/>
+                    <h1 className='align-middle font-semibold text-lg dark:text-negro'>{t('volver')}</h1>
                 </Link>
                 
             </div>        

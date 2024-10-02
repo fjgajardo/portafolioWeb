@@ -4,11 +4,17 @@ import { Link } from '../../i18n/routing';
 import HeroSection from './components/HeroSection'
 import NavBar from './components/NavBar'
 import TarjetasPortafolio from './components/TarjetasPortafolio'
+import DarkModeToggle from './components/DarkmodeToggle'
+import { useEffect , useState } from 'react';
+import { useTheme } from 'next-themes';
 
 
 
 
-export default function Home() {
+
+
+export default function Home( {}) {
+  
   return (
     <main >
       <NavBar />

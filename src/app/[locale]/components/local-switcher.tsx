@@ -23,23 +23,26 @@ export default function LocalSwitcher() {
 
     return (
 
-    <div className='relative'>
-        <button onClick={toggleDropdown} className='block rounded bg-gris-l py-1 px-5 flex gap-2 '>
-            <img src="/world.svg" alt="Lenguaje" className='fill-morado-h'/>
-            {localActive}
+    <div className=''>
+        <button onClick={toggleDropdown} className='rounded bg-gris-l py-1 px-5 gap-2 text-negro '>
+            <div className='flex'>
+                <img src="/world.svg" alt="Lenguaje" className='fill-morado-h dark:fill-morado-l'/>
+                {localActive}
+            </div>
+            
         </button>
 
         {isOpen && (
-            <div className='absolute right-0 mt-1 bg-blancoSecundario rounded py-2 shadow-md'>
+            <div className='md:absolute bg-blancoSecundario dark:bg-gris-l rounded py-2 shadow-md text-right items-right flex flex-col'>
                 <button 
                     onClick={() => onSelectChange("en")} 
-                    className='rounded block py-2 px-3 text-gris hover:bg-gris-2' 
+                    className='rounded block py-2 px-3 text-gris text-right dark:text-negro  hover:bg-gris-2' 
                     value="en">
                     English
                 </button>
                 <button 
                     onClick={() => onSelectChange("es")} 
-                    className='rounded block py-2 px-3 text-gris hover:bg-gris-2' 
+                    className='rounded block py-2 px-3 text-gris text-right dark:text-negro hover:bg-gris-2' 
                     value="es">
                     Español
                 </button>

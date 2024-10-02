@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from '../../../i18n/routing'
 import { useTranslations } from 'next-intl'
+import { motion } from "framer-motion"
 
 const HeroSection = () => {
   const t = useTranslations('HeroSection');
@@ -11,7 +12,7 @@ const HeroSection = () => {
           {t('intro')}
         </h1>
 
-        <h3 className='text-2xl text-morado-h my-10'>
+        <h3 className='text-2xl text-morado-h my-10 dark:text-morado-l'>
           {t('bajada')}
         </h3>
 
@@ -29,11 +30,11 @@ const HeroSection = () => {
         
 
 
-        <button className='bg-morado-h px-6 py-5 rounded-md text-xl text-blanco font-semibold my-10'>
+        <motion.button whileHover={{scale:1.08}} whileTap={{scale: 0.9}} className=' bg-morado-h px-6 py-5 rounded-md text-xl text-blancoFijo font-semibold my-10'>
           <Link href='/sobreMi#Contacto'>
             {t('boton')}
           </Link>
-        </button>
+        </motion.button>
           
           
 

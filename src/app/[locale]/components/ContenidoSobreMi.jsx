@@ -38,7 +38,7 @@ const ContenidoSobreMi = () => {
           <img className='shadow-sm border-blanco border-2 rounded-sm mx-auto' src={t('imgPortafolio')}  alt=""  />
           <div className=''>
             <button className='flex mx-auto gap-2 p-4 my-4 bg-morado-h rounded-md items-center'>
-              <a className='block text-blanco md:text-lg text-sm font-semibold mt-1 ' href={t('linkPortafolio')}>Ver archivo </a>
+              <a className='block text-blancoFijo md:text-lg text-sm font-semibold mt-1 ' href={t('linkPortafolio')}>{t('verArchivo')}</a>
               <IconContext.Provider value={{ color: 'white' }}>
                 <FaDownload/>
                 </IconContext.Provider>
@@ -53,7 +53,7 @@ const ContenidoSobreMi = () => {
           <img className='shadow-sm border-blanco border-2 rounded-sm mx-auto' src={t('imgCV')}  alt="" />
           <div className=''>
             <button className='flex mx-auto gap-2 p-4 my-4 bg-morado-h rounded-md items-center'>
-              <a className='block text-blanco md:text-lg text-sm font-semibold mt-1 ' href={t('linkCV')}>Ver archivo </a>
+              <a className='block text-blancoFijo md:text-lg text-sm font-semibold mt-1 ' href={t('linkCV')}>{t('verArchivo')}</a>
               <IconContext.Provider value={{ color: 'white' }}>
                 <FaDownload/>
               </IconContext.Provider>
