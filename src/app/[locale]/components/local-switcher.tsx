@@ -36,7 +36,7 @@ export default function LocalSwitcher() {
             <div className='md:absolute bg-blancoSecundario dark:bg-gris-l rounded py-2 shadow-md text-right items-right flex flex-col'>
                 <button 
                     onClick={() => onSelectChange("en")} 
-                    className='rounded block py-2 px-3 text-gris text-right dark:text-negro  hover:bg-gris-2' 
+                    className='rounded block py-2 px-4 text-gris text-right dark:text-negro  hover:bg-gris-2' 
                     value="en">
                     English
                 </button>
