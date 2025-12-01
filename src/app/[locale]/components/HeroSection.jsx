@@ -21,7 +21,7 @@ const HeroSection = () => {
             <p className='font-light text-negro'>
               {t('contenido1')}
               <br /> <br />
-              {t('contenido2')}S
+              {t('contenido2')}
             </p>
           </div>
 
